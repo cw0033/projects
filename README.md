@@ -6,3 +6,7 @@ Gun violence has emerged as a critical and deeply troubling issue in the United 
 ### Objective
 1. Predict fatality of a gun voilence incident
 2. Predict number of people killed in each incident
+
+### Model
+Random forest regressor and classification were used in predicting number of people killed and fatality of event respectively.
+PCA and random forest importance ranking were used during feature selection.
