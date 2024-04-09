@@ -22,8 +22,6 @@ A range of causal inference models were experienced to estimate the causal effec
 
 ## Key Findings
 ## Features:
-### Key Observations:
-
 - **Top Features**: Both methods identified `Vehicle_Type_bus` and `Accident_Severity` as highly important features, but their order of importance is swapped. This indicates that regardless of the method, these two features are crucial in predicting the outcome.
 
 - **Cluster Similarity**: Features related to cluster similarity(derived from latitude and longitude that represents geo data ) appear prominently in both methods, suggesting that the location of accidents play a significant role in the model. However, the specific clusters identified as important vary between the two methods, which could suggest differences in how each method evaluates the influence of correlated features.
