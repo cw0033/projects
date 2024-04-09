@@ -13,8 +13,8 @@ A range of causal inference models were experienced to estimate the causal effec
 - Data preprocessing and feature selection to prepare the dataset for causal analysis.
 - Model Objective:
 **Use case senario: Using road, light , weather conditions to predict the number of causlties in accidents.**
-**Treatment: 'Light_Conditions_Darkness - lights lit'**
-**other predictors: all attributes available** 
+**Treatment: 'Light_Conditions_Darkness - lights lit'**\
+**other predictors: all attributes available** \
 **y: number of causalties**
 
 - Models:LGBM and XGBT
